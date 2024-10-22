@@ -25,15 +25,10 @@
 
 # 📊 GitHub Stats:
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div>
-    ![](https://github-readme-stats.vercel.app/api?username=nsaladie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-  </div>
-  <div>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsaladie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  </div>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api?username=nsaladie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsaladie&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nsaladie&icon=0&color=0)](https://visitcount.itsvg.in)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noemi-saladie) 
+&nbsp; [![](https://visitcount.itsvg.in/api?id=nsaladie&icon=0&color=0)](https://visitcount.itsvg.in) 
+&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noemi-saladie) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
